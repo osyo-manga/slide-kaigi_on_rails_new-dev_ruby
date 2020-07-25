@@ -1,4 +1,4 @@
-# Kaigi on Rails new 
+## Kaigi on Rails new 
 - - -
 
 ## Ruby の開発について
@@ -12,9 +12,9 @@
 * Twitter : [@pink_bangbi](https://twitter.com/pink_bangbi)
 * github  : [osyo-manga](https://github.com/osyo-manga)
 * ブログ  : [Secret Garden(Instrumental)](http://secret-garden.hatenablog.com)
-* Rails 歴 約2年半
-* Ruby で一番好きな機能は Refinements です
-* 趣味で Ruby にパッチを投げたりしてます
+* Rails 歴 約2年半           <!-- .element: class="fragment" -->
+* 趣味で Ruby にパッチを投げたりしてます           <!-- .element: class="fragment" -->
+* Ruby で一番好きな機能は Refinements です           <!-- .element: class="fragment" -->
 
 ---
 
